@@ -9,6 +9,7 @@ Why chicken is good:
 * Tasty
 * Delicious
 * Crispy
+* Juicy
 ---	
 Best days:
 1. Saturday
