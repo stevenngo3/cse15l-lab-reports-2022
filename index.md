@@ -1,4 +1,4 @@
-Hello, I am in lab right now
+[Link to report 1](lab-report-1-week-2.html)
 # Introduction
 Hello, my name is **Steven** and I am currently taking *CSE 15L*
 ## Interesting Fact 
@@ -9,9 +9,9 @@ Why chicken is good:
 * Tasty
 * Delicious
 * Crispy
-* Juicy
+
 ---	
-Best days:
+Best days of the week:
 1. Saturday
 2. Sunday
 3. Friday
