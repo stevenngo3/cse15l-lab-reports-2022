@@ -1,8 +1,11 @@
 # Lab Report 3
-## Steamlining ssh Configuration
+## Streamlining ssh Configuration
 ### .ssh/config
 ![configss](cskac2.png)
-### ssh command
+### ssh Command
 ![sshss](sshss.png)
-### scp command
+### scp Command
+![scpss](scpsc.png)
 ## Setup Github Access from ieng6
+## Github public key
+
