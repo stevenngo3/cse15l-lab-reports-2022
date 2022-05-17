@@ -27,5 +27,11 @@ Commiting changes to Github using the terminal while being logged into the ieng6
 ### Screenshots of running scp -r
 ![scpr1](scpr1.png)
 ![scpr2](scpr2.png)
+
+Recursive copy of the markdown-parse directory into the remote server
 ### Screenshot of markdown-parse dir in ieng6 account
 ![scpr3](scpr3.png)
+
+Directory is now appearing in the ieng6 account.
+### scp -r test running
+![scprtest](scprtest.png)
