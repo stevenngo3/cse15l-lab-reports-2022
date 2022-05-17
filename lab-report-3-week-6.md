@@ -24,4 +24,8 @@ Commiting changes to Github using the terminal while being logged into the ieng6
 ### Link to resulting commit
 [test4-file.md commit](https://github.com/stevenngo3/markdown-parser/commit/d3f114c29d8a0601973c430ba67cf9d9a296f7df)
 ## Copying whole directories with scp -r
-
+### Screenshots of running scp -r
+![scpr1](scpr1.png)
+![scpr2](scpr2.png)
+### Screenshot of markdown-parse dir in ieng6 account
+![scpr3](scpr3.png)
