@@ -6,28 +6,37 @@
 ### Expected output:
 ![Image](snip1o.png)
 
-### Tester code:
-![Image](testcode1.png) 
+### Our implementation:
+![Image](mi1.png) 
+Failed
 
-Test failed
+### Reviewed group's implementation:
+![Image](mi12.png)
+Failed
 
 ## Test 2
 ### Expected output:
 ![Image](snip2o.png)
 
-### Tester code:
-![Image](testcode2.png)
+### Our implementation:
+![Image](mi2.png)
+Failed
 
-Test failed
+### Reviewed group's implementation:
+![Image](mi22.png)
+Failed
 
 ## Test 3
 ### Expected output:
 ![Image](snip3o.png)
 
-### Tester code:
-![Image](testcode3.png)
+### Our implementation:
+![Image](mi3.png)
+Failed
 
-Test failed
+### Reviewed group's implementation:
+![Image](mi32.png)
+Failed
 
 ## Questions
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change. 
