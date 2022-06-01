@@ -24,7 +24,7 @@ Test failed
 ### Expected output:
 ![Image](snip3o.png)
 
-### Expected output:
+### Tester code:
 ![Image](testcode3.png)
 
 Test failed
